@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RestController
 public class MainController {
 	
-	
+	// Test Api
 	@RequestMapping("/hello")
 	public String sayHello()
 	{
